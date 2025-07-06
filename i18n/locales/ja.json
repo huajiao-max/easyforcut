@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "title": "",
+    "description": "",
+    "ogTitle": "",
+    "ogDescription": ""
+  },
+  "hero": {
+    "title": "",
+    "subtitle": "",
+    "ctaText": "",
+    "ctaLink": ""
+  },
+  "features": {
+    "titles": {
+      "diet": "",
+      "workout": "",
+      "bmi": "",
+      "tracking": "",
+      "wellness": "",
+      "nutrition": ""
+    },
+    "descriptions": {
+      "diet": "",
+      "workout": "",
+      "bmi": "",
+      "tracking": "",
+      "wellness": "",
+      "nutrition": ""
+    }
+  },
+  "plans": {
+    "titles": {
+      "diet": "",
+      "workout": "",
+      "transformation": ""
+    },
+    "features": {
+      "diet": [],
+      "workout": [],
+      "transformation": []
+    },
+    "descriptions": {
+      "diet": "",
+      "workout": "",
+      "transformation": ""
+    }
+  },
+  "tools": {
+    "titles": {
+      "bmi": "",
+      "calorie": "",
+      "progress": "",
+      "meal": "",
+      "deficit": ""
+    },
+    "descriptions": {
+      "bmi": "",
+      "calorie": "",
+      "progress": "",
+      "meal": "",
+      "deficit": ""
+    }
+  },
+  "testimonial": {
+    "text": "",
+    "author": ""
+  },
+  "cta": {
+    "title": "",
+    "description": "",
+    "buttonText": "",
+    "buttonLink": ""
+  },
+  "sectionTitles": {
+    "features": "",
+    "plans": "",
+    "savedPlans": "",
+    "progressTracker": ""
+  },
+  "progressTracker": {
+    "description": ""
+  },
+  "buttons": {
+    "startPlan": "プランを開始",
+    "delete": "削除",
+    "savePlan": "プランを保存"
+  },
+  "warnings": {
+    "planNameRequired": "プランに名前を付けてください！🌸",
+    "exerciseDurationLimit": "運動時間は2時間を超えないでください！(｡･ω･｡)",
+    "exerciseConfigRequired": "運動の種類と時間を選択してください！💕",
+    "mealConfigRequired": "少なくとも1食を設定してください！💕",
+    "combinedConfigRequired": "運動と食事の両方を設定してください！💕"
+  },
+  "modals": {
+    "exercise": {
+      "title": "",
+      "reminder": "",
+      "typeLabel": "",
+      "durationLabel": ""
+    },
+    "diet": {
+      "title": "",
+      "tips": ""
+    },
+    "combined": {
+      "title": "",
+      "tips": ""
+    }
+  }
+}

@@ -1,0 +1,521 @@
+{
+  "header": {
+    "home": "Home",
+    "title": "Easy4cut", 
+    "login": "Login",
+    "features": "Features",
+    "pricing": "Pricing",
+    "contact": "Contact Us"
+  },
+  "footer":{
+    "menuList":[{
+      "title": "Home",
+      "name": "index",
+      "url": "/",
+      "icon": "HiOutlineSparkles"
+    },
+    {
+      "title": "Diet & Nutrition​",
+      "name": "Diet & Nutrition",
+      "url": "/diet-nutrition​",
+      "icon": "BiCube"
+    },
+    {
+      "title": "Fitness & Workouts​",
+      "name": "Fitness & Workouts​",
+      "url": "/fitness-workouts​",
+      "icon": "BiCube"
+    },
+    {
+      "title": "Tools & Calculators​",
+      "name": " Tools & Calculators​",
+      "url": "/tools-calculators​",
+      "icon": "BiCube"
+    },
+    {
+      "title": "FAQ",
+      "name": "FAQ",
+      "url": "/faq",
+      "icon": "BiCube"
+    }
+
+ ]
+  },
+  "hero": {
+    "title": "Transform Your Life with Simple Weight Loss Plans",
+    "subtitle": "Start your journey today with personalized diet plans, workout routines, and monthly tracking. No complicated rules, just results that last.",
+    "ctaText": "Start Your Transformation →",
+    "ctaLink": "#plans"
+  },
+  "sectionTitles": {
+    "features": "Why Choose Our Weight Loss Plans?",
+    "plans": "Choose Your Weight Loss Plan 💪",
+    "savedPlans": "📋 My Plan Collection",
+    "progressTracker": "📅 Monthly Progress Tracker",
+ "freeweight":"Free Weight Loss Tools"
+ 
+  },
+
+  "meta": {
+    "title": "Transform Your Life - Simple Weight Loss Plans That Actually Work",
+    "description": "Start your weight loss journey with our simple diet plans, workout routines, and monthly tracking. Free tools including BMI calculator, calorie calculator, and personalized plans for lasting results.",
+    "ogTitle": "Transform Your Life - Simple Weight Loss Plans That Actually Work",
+    "ogDescription": "Start your weight loss journey with our simple diet plans, workout routines, and monthly tracking."
+  },
+
+ "chooseusfeatures": [
+    {
+      "icon": "🎯",
+      "title": "Simple Diet Plans for Weight Loss",
+      "description": "No complicated meal prep or expensive ingredients. Our simple diet plans focus on balanced nutrition with foods you already love, making weight loss sustainable and enjoyable."
+    },
+    {
+      "icon": "💪",
+      "title": "Workout Plans for Weight Loss",
+      "description": "Specially designed workout plans for females and all fitness levels. From beginners to advanced, find routines that fit your lifestyle and help you burn calories effectively."
+    },
+    {
+      "icon": "📊",
+      "title": "Free BMI & Calorie Calculator",
+      "description": "Track your progress with our built-in BMI calculator and calorie calculator. Know exactly where you stand and what you need to achieve your weight loss goals."
+    },
+    {
+      "icon": "🗓️",
+      "title": "Monthly Progress Tracking",
+      "description": "Stay motivated with our visual monthly tracking system. Every small step counts, and we help you celebrate every milestone on your weight loss journey."
+    },
+    {
+      "icon": "🧘‍♀️",
+      "title": "Holistic Wellness Approach",
+      "description": "More than just diet and exercise - we focus on your complete transformation, supporting your journey like Garden of Life supports natural wellness."
+    },
+    {
+      "icon": "🍊",
+      "title": "Smart Nutrition Guidance",
+      "description": "Learn about calories in everyday foods - from orange calories to your favorite treats. Make informed choices without giving up the foods you love."
+    }
+  ],
+  "planTypes": [
+    {
+      "type": "exercise",
+      "icon": "🏃‍♀️",
+      "title": "Exercise Plan",
+      "features": [
+        "Burn calories effectively",
+        "Boost metabolism",
+        "Perfect for fitness enthusiasts"
+      ],
+      "description": "Burn calories and boost metabolism through regular exercise. Perfect for fitness enthusiasts!",
+   "save":"💾 Save Your Exercise Plan",
+   "savePlaceholeder":"Give your exercise plan a cute name~",
+   "savePlan":"Save Plan"
+   
+    },
+    {
+      "type": "diet",
+      "icon": "🥗",
+      "title": "Diet Plan",
+      "features": [
+        "Control calorie intake",
+        "Balanced nutrition",
+        "Sustainable eating habits"
+      ],
+      "description": "Control calorie intake with balanced nutrition. Start changing with every meal!"
+      ,"save":"💾 Save Your Diet Plan",
+      "savePlaceholeder":"Give your diet plan a cute name~",
+      "savePlan":"Save Plan"
+    },
+    {
+      "type": "combined",
+      "icon": "💫",
+      "title": "Exercise + Diet",
+      "features": [
+        "Best of both worlds",
+        "Maximum effectiveness",
+        "Comprehensive approach"
+      ],
+      "description": "Best of both worlds! Combined approach for more effective results!"
+     , "save":"💾 Save Your combined Plan",
+      "savePlaceholeder":"Give your combined plan a cute name~",
+      "savePlan":"Save Plan"
+    }
+  ],
+  "plans": {
+    "titles": {
+      "diet": "Simple Diet Plan",
+      "workout": "Workout Plan for Weight Loss",
+      "transformation": "Complete Transformation"
+    },
+    "features": {
+      "diet": [
+        "Customizable meal plans",
+        "Calorie tracking made easy",
+        "Balanced nutrition guidelines",
+        "Portion control tips",
+        "Healthy recipe suggestions"
+      ],
+      "workout": [
+        "Female-focused routines",
+        "Home and gym options",
+        "Progressive difficulty levels",
+        "Time-efficient workouts",
+        "Cardio and strength training"
+      ],
+      "transformation": [
+        "Combined diet + exercise",
+        "Monthly makeover challenges",
+        "Progress photo tracking",
+        "Lifestyle habit building",
+        "Long-term success planning"
+      ]
+    },
+    "descriptions": {
+      "diet": "Perfect for those who want to lose weight through smart eating choices without complicated restrictions.",
+      "workout": "Designed specifically for women who want effective workout plans that fit into busy schedules.",
+      "transformation": "Your complete makeover solution - like a \"mommy makeover\" but focused on healthy lifestyle changes that last."
+    },
+    "types": {
+      "exercise": {
+        "title": "Exercise Plan",
+        "features": [
+          "Burn calories effectively",
+          "Boost metabolism",
+          "Perfect for fitness enthusiasts"
+        ],
+        "description": "Burn calories and boost metabolism through regular exercise. Perfect for fitness enthusiasts!"
+      },
+      "diet": {
+        "title": "Diet Plan",
+        "features": [
+          "Control calorie intake",
+          "Balanced nutrition",
+          "Sustainable eating habits"
+        ],
+        "description": "Control calorie intake with balanced nutrition. Start changing with every meal!"
+      },
+      "combined": {
+        "title": "Exercise + Diet",
+        "features": [
+          "Best of both worlds",
+          "Maximum effectiveness",
+          "Comprehensive approach"
+        ],
+        "description": "Best of both worlds! Combined approach for more effective results!"
+      }
+    },
+    "exerciseTypes": [
+      "Jogging",
+      "Brisk Walking",
+      "Stair Climbing",
+      "Swimming",
+      "Yoga",
+      "Dancing",
+      "Walking",
+      "Cycling"
+    ],
+    "dietmodals": {
+      "dietPlan": {
+        "title": "🍽️ Create Diet Plan",
+        "tips": {
+          "title": "💡 Diet Tips:",
+          "text1": "Balanced nutrition is more important than extreme dieting. Our goal is to build sustainable eating habits, not short-term extreme restrictions.",
+          "text2": "Choose an appropriate level of fullness and maintain nutritional balance. Let every meal become part of your healthy lifestyle! 🥗"
+        },
+        "mealSettingsTitle": "🍽️ Meal Settings",
+        "mealTitle": "🍽️ {meal}",
+        "dietDescriptionLabel": "Diet Description",
+        "fullnessLabel": "Fullness Level",
+        "previewTitle": "📋 Your Diet Plan Preview",
+        "emptyConfigMessage": "Please configure your meal settings...",
+        "saveTitle": "Save Your Diet Plan",
+        "savePlaceholder": "Enter plan name...",
+        "saveButton": "Save Plan"
+      },
+      "mealTypes": [
+     "Breakfast",
+     "Lunch",
+        "Dinner",
+       "Snack"
+      ],
+      "dietDescriptions": [
+     "Low Carb",
+     "High Protein",
+     "Balanced",
+      "Vegetarian",
+    "Vegan"
+    ],
+      
+    "fullnessLevels": [
+"Light (70% full)",
+   "Moderate (80% full)",
+     "Satisfied (90% full)"
+    ]
+    },
+
+  "combinedmodals": {
+    "combinedPlan": {
+      "title": "💫 Create Combined Plan",
+      "tips": {
+        "title": "💡 Combined Plan Tips:",
+        "text1": "Combining exercise with diet is the most effective weight loss approach. But remember, don't put too much pressure on yourself - choose a plan that fits your lifestyle rhythm.",
+        "text2": "Take it step by step, let change become a natural part of your life, not a burden! 💪"
+      },
+      "exerciseSectionTitle": "🏃‍♀️ Exercise Section",
+      "exerciseTypeLabel": "Exercise Type",
+      "exerciseDurationLabel": "Exercise Duration",
+      "dietSectionTitle": "🍽️ Diet Section",
+      "dietDescriptionLabel": "Diet Description",
+      "fullnessLabel": "Fullness Level",
+      "previewTitle": "📋 Your Combined Plan Preview",
+      "exerciseLabel": "Exercise",
+      "dietLabel": "Diet",
+      "saveTitle": "Save Your Combined Plan",
+      "savePlaceholder": "Enter plan name...",
+      "saveButton": "Save Plan"
+    },
+    "exerciseTypes": ["Walking", "Running", "Yoga", "Swimming", "Cycling"],
+    "exerciseDurations": ["15", "30", "45", "60"],
+    "mealTypes": ["Breakfast", "Lunch", "Dinner", "Snack"],
+    "dietDescriptions": ["Low Carb", "High Protein", "Balanced", "Vegetarian", "Vegan"],
+    "fullnessLevels": ["Light (70%)", "Moderate (80%)", "Satisfied (90%)"]
+  ,
+  "common": {
+    "minutes": "min"
+  }},
+
+    "exerciseDurations": [10, 20, 30, 45, 60, 90],
+    "mealTypes": ["Breakfast", "Lunch", "Dinner"],
+    "dietDescriptions": [
+      "Light",
+      "Moderate",
+      "Heavy",
+      "Balanced",
+      "Vegetarian",
+      "Skip"
+    ],
+    "fullnessLevels": [
+      "Stay Hungry",
+      "50% Full",
+      "60% Full",
+      "70% Full",
+      "80% Full",
+      "90% Full",
+      "100% Full"
+    ]
+  },
+  "tools": {
+    "titles": {
+      "bmi": "BMI Calculator",
+      "calorie": "Calorie Calculator",
+      "progress": "Progress Tracker",
+      "meal": "Meal Planner",
+      "deficit": "Calorie Deficit Calculator"
+    },
+    "descriptions": {
+      "bmi": "Calculate your Body Mass Index and understand where you stand on your weight loss journey.",
+      "calorie": "Determine your daily calorie needs and create the perfect deficit for weight loss.",
+      "progress": "Visual monthly tracking to keep you motivated and on track with your goals.",
+      "meal": "Plan your meals with our easy-to-use interface, from healthy Bánh mì alternatives to balanced daily menus.",
+      "deficit": "Estimate your daily calorie needs and deficit target to achieve sustainable weight loss while maintaining energy levels."
+    }
+  },
+  "testimonial": {
+    "text": "I used to think weight loss was impossible with my busy schedule. But this simple approach changed everything. The monthly tracking kept me motivated, and the simple diet plans were actually doable. I learned that small consistent changes, like understanding calories in my favorite orange julius or choosing healthier versions of comfort foods, made all the difference. Now I keep holding on to these healthy habits because I know we'll make it through any challenge!",
+    "author": "- Sarah M., Lost 35 lbs in 4 months"
+  },
+
+  "progressTracker": {
+    "description": "Click on dates to mark your progress. Let's stay consistent together! 💪"
+  },
+  "buttons": {
+    "startPlan": "Start Plan",
+    "delete": "Delete",
+    "savePlan": "Save Plan"
+  },
+  "warnings": {
+    "planNameRequired": "Please give your plan a name! 🌸",
+    "exerciseDurationLimit": "Exercise duration cannot exceed 2 hours! 😊",
+    "exerciseConfigRequired": "Please select exercise type and duration! 💕",
+    "mealConfigRequired": "Please configure at least one meal! 💕",
+    "combinedConfigRequired": "Please complete both exercise and diet configurations! 💕"
+  },
+ "modals": {
+    "exercisePlan": {
+      "title": "🏃‍♀️ Create Exercise Plan",
+      "reminder": {
+        "title": "💡 Gentle Reminder:",
+        "text1": "Don't add overly strict exercise routines or set unrealistic workout durations. Choose activities that fit naturally into your daily life - even a 30-minute walk after dinner counts as a win!",
+        "text2": "Moderate daily exercise helps us stay consistent. If we exhaust ourselves from the start, it might have the opposite effect. Remember, consistency beats intensity! 🌟"
+      },
+      "exerciseTypeTitle": "🎯 Choose Exercise Type",
+      "addExercisePlaceholder": "Add new exercise type...",
+      "durationTitle": "⏰ Choose Exercise Duration",
+      "durationFormat": "{duration} min",
+      "addDurationPlaceholder": "Add duration (minutes)"
+    }
+  },
+  "toolsSection": {
+    "title": "Free Weight Loss Tools",
+    "tools": [
+      {
+        "icon": "⚖️",
+        "title": "BMI Calculator",
+        "description": "Calculate your Body Mass Index and understand where you stand on your weight loss journey."
+      },
+      {
+        "icon": "🔥",
+        "title": "Calorie Calculator",
+        "description": "Determine your daily calorie needs and create the perfect deficit for weight loss."
+      },
+      {
+        "icon": "📈",
+        "title": "Progress Tracker",
+        "description": "Visual monthly tracking to keep you motivated and on track with your goals."
+      },
+      {
+        "icon": "🥘",
+        "title": "Meal Planner",
+        "description": "Plan your meals with our easy-to-use interface, from healthy alternatives to balanced daily menus."
+      }
+    ],
+    "bmiDialog": {
+      "title": "BMI Calculator",
+      "heading": "📏 BMI Calculator",
+      "unitLabel": "Unit System",
+      "metricOption": "Metric (kg/cm)",
+      "imperialOption": "Imperial (lb/in)",
+      "weightLabel": "Weight",
+      "weightPlaceholder": "70",
+      "heightLabel": "Height",
+      "heightPlaceholder": "170",
+      "calculateButton": "Calculate BMI",
+      "resultTitle": "Your BMI Result",
+      "bmiValue": "BMI"
+    },
+    "calorieDialog": {
+      "title": "Calorie Calculator",
+      "foodTab": "Food Calories",
+      "exerciseTab": "Exercise Calories",
+      "foodLabel": "Food Item",
+      "selectFood": "Select Food",
+      "quantityLabel": "Quantity",
+      "quantityPlaceholder": "1",
+      "calculateFoodButton": "Calculate Food Calories",
+      "exerciseLabel": "Exercise Type",
+      "selectExercise": "Select Exercise",
+      "weightLabel": "Body Weight",
+      "weightPlaceholder": "70",
+      "durationLabel": "Duration",
+      "durationPlaceholder": "30",
+      "calculateExerciseButton": "Calculate Exercise Calories",
+      "resultTitle": "Calorie Result"
+    },
+    "mealDialog": {
+      "title": "Meal Planner",
+      "heading": "🍽️ Meal Planner"
+    },
+    "deficitDialog": {
+      "title": "Calorie Deficit Calculator",
+      "deficitTab": "Deficit Calculator",
+      "trackerTab": "Daily Tracker",
+      "genderLabel": "Gender",
+      "ageLabel": "Age",
+      "agePlaceholder": "30",
+      "heightLabel": "Height",
+      "heightPlaceholder": "170",
+      "weightLabel": "Weight",
+      "weightPlaceholder": "70",
+      "activityLabel": "Activity Level",
+      "goalLabel": "Goal",
+      "calculateButton": "Calculate My Deficit",
+      "resultTitle": "Your Calorie Needs",
+      "maintenanceLabel": "Maintenance",
+      "targetLabel": "Target Intake",
+      "weeklyDeficitLabel": "Weekly Deficit",
+      "projectedLossLabel": "Projected Weight Loss",
+      "budgetLabel": "Daily Calorie Budget",
+      "budgetPlaceholder": "1800",
+      "consumedLabel": "Food Consumed",
+      "consumedPlaceholder": "0",
+      "burnedLabel": "Exercise Calories Burned",
+      "burnedPlaceholder": "0",
+      "calculateDailyButton": "Calculate Daily Balance",
+      "dailySummaryTitle": "Daily Summary",
+      "remainingLabel": "Remaining Calories",
+      "currentDeficitLabel": "Current Deficit",
+      "weeklyProjectionLabel": "Projected Weekly Deficit"
+    }
+  },
+  "common": {
+    "calories": "cal",
+    "kcal": "kcal",
+    "kcalPerDay": "kcal/day",
+    "kgPerWeek": "kg/week",
+    "minutes": "min",
+    "male": "Male",
+    "female": "Female"
+  },
+  "bmiCategories": {
+    "underweight": "Underweight",
+    "normal": "Normal weight",
+    "overweight": "Overweight",
+    "obese": "Obese"
+  },
+  "activityLevels": {
+    "sedentary": "Sedentary (little or no exercise)",
+    "light": "Lightly active (light exercise 1-3 days/week)",
+    "moderate": "Moderately active (moderate exercise 3-5 days/week)",
+    "veryActive": "Very active (hard exercise 6-7 days/week)",
+    "extraActive": "Extra active (very hard exercise & physical job)"
+  },
+  "weightLossGoals": {
+    "mild": "Mild weight loss (0.25 kg/week)",
+    "moderate": "Moderate weight loss (0.5 kg/week)",
+    "fast": "Fast weight loss (0.75 kg/week)",
+    "aggressive": "Aggressive weight loss (1 kg/week)"
+  },
+  "foodCategories": {
+    "Fruits": "Fruits",
+    "Vegetables": "Vegetables",
+    "Meat": "Meat",
+    "Dairy": "Dairy",
+    "Grains": "Grains"
+  },
+  "foodItems": {
+    "apple": "Apple",
+    "banana": "Banana",
+    "orange": "Orange",
+    "broccoli": "Broccoli",
+    "carrot": "Carrot",
+    "chicken breast": "Chicken Breast",
+    "beef": "Beef",
+    "milk": "Milk",
+    "cheese": "Cheese",
+    "rice": "Rice",
+    "bread": "Bread"
+  },
+  "exerciseTypes": {
+    "walking": "Walking",
+    "running": "Running",
+    "cycling": "Cycling",
+    "swimming": "Swimming",
+    "yoga": "Yoga",
+    "weightlifting": "Weightlifting"
+  },
+  "common": {
+    "add": "Add"
+  },
+  "exerciseTypes": {
+    "walking": "Walking",
+    "running": "Running",
+    "yoga": "Yoga",
+    "swimming": "Swimming",
+    "cycling": "Cycling"
+  },
+  "cta": {
+    "title": "Ready to Start Your Transformation?",
+    "description": "Join thousands who have already started their journey. Your best summer transformation starts today!",
+    "buttonText": "Get Started Free Today",
+    "buttonLink": "weight_loss_planner_english.html"
+  }
+}

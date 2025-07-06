@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "title": "",
+    "description": "",
+    "ogTitle": "",
+    "ogDescription": ""
+  },
+  "hero": {
+    "title": "",
+    "subtitle": "",
+    "ctaText": "",
+    "ctaLink": ""
+  },
+  "features": {
+    "titles": {
+      "diet": "",
+      "workout": "",
+      "bmi": "",
+      "tracking": "",
+      "wellness": "",
+      "nutrition": ""
+    },
+    "descriptions": {
+      "diet": "",
+      "workout": "",
+      "bmi": "",
+      "tracking": "",
+      "wellness": "",
+      "nutrition": ""
+    }
+  },
+  "plans": {
+    "titles": {
+      "diet": "",
+      "workout": "",
+      "transformation": ""
+    },
+    "features": {
+      "diet": [],
+      "workout": [],
+      "transformation": []
+    },
+    "descriptions": {
+      "diet": "",
+      "workout": "",
+      "transformation": ""
+    }
+  },
+  "tools": {
+    "titles": {
+      "bmi": "",
+      "calorie": "",
+      "progress": "",
+      "meal": "",
+      "deficit": ""
+    },
+    "descriptions": {
+      "bmi": "",
+      "calorie": "",
+      "progress": "",
+      "meal": "",
+      "deficit": ""
+    }
+  },
+  "testimonial": {
+    "text": "",
+    "author": ""
+  },
+  "cta": {
+    "title": "",
+    "description": "",
+    "buttonText": "",
+    "buttonLink": ""
+  },
+  "sectionTitles": {
+    "features": "",
+    "plans": "",
+    "savedPlans": "",
+    "progressTracker": ""
+  },
+  "progressTracker": {
+    "description": ""
+  },
+  "buttons": {
+    "startPlan": "Iniciar Plano",
+    "delete": "Excluir",
+    "savePlan": "Salvar Plano"
+  },
+  "warnings": {
+    "planNameRequired": "Por favor, dê um nome ao seu plano! 🌸",
+    "exerciseDurationLimit": "A duração do exercício não pode exceder 2 horas! 😊",
+    "exerciseConfigRequired": "Por favor, selecione o tipo e duração do exercício! 💕",
+    "mealConfigRequired": "Por favor, configure pelo menos uma refeição! 💕",
+    "combinedConfigRequired": "Por favor, complete as configurações de exercício e dieta! 💕"
+  },
+  "modals": {
+    "exercise": {
+      "title": "",
+      "reminder": "",
+      "typeLabel": "",
+      "durationLabel": ""
+    },
+    "diet": {
+      "title": "",
+      "tips": ""
+    },
+    "combined": {
+      "title": "",
+      "tips": ""
+    }
+  }
+}

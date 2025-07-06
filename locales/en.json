@@ -1,0 +1,205 @@
+﻿{
+  "header": {
+    "home": "Home",
+    "title": "Easy Slim Plan", 
+    "login": "Login",
+    "features": "Features",
+    "pricing": "Pricing",
+    "contact": "Contact Us"
+  },
+  "meta": {
+    "title": "Transform Your Life - Simple Weight Loss Plans That Actually Work",
+    "description": "Start your weight loss journey with our simple diet plans, workout routines, and monthly tracking. Free tools including BMI calculator, calorie calculator, and personalized plans for lasting results.",
+    "ogTitle": "Transform Your Life - Simple Weight Loss Plans That Actually Work",
+    "ogDescription": "Start your weight loss journey with our simple diet plans, workout routines, and monthly tracking."
+  },
+  "hero": {
+    "title": "Transform Your Life with Simple Weight Loss Plans",
+    "subtitle": "Start your journey today with personalized diet plans, workout routines, and monthly tracking. No complicated rules, just results that last.",
+    "ctaText": "Start Your Transformation →",
+    "ctaLink": "#plans"
+  },
+  "features": {
+    "titles": {
+      "diet": "Simple Diet Plans for Weight Loss",
+      "workout": "Workout Plans for Weight Loss",
+      "bmi": "Free BMI & Calorie Calculator",
+      "tracking": "Monthly Progress Tracking",
+      "wellness": "Holistic Wellness Approach",
+      "nutrition": "Smart Nutrition Guidance"
+    },
+    "descriptions": {
+      "diet": "No complicated meal prep or expensive ingredients. Our simple diet plans focus on balanced nutrition with foods you already love, making weight loss sustainable and enjoyable.",
+      "workout": "Specially designed workout plans for females and all fitness levels. From beginners to advanced, find routines that fit your lifestyle and help you burn calories effectively.",
+      "bmi": "Track your progress with our built-in BMI calculator and calorie calculator. Know exactly where you stand and what you need to achieve your weight loss goals.",
+      "tracking": "Stay motivated with our visual monthly tracking system. Every small step counts, and we help you celebrate every milestone on your weight loss journey.",
+      "wellness": "More than just diet and exercise - we focus on your complete transformation, supporting your journey like Garden of Life supports natural wellness.",
+      "nutrition": "Learn about calories in everyday foods - from orange calories to your favorite treats. Make informed choices without giving up the foods you love."
+    }
+  },
+  "plans": {
+    "titles": {
+      "diet": "Simple Diet Plan",
+      "workout": "Workout Plan for Weight Loss",
+      "transformation": "Complete Transformation"
+    },
+    "features": {
+      "diet": [
+        "Customizable meal plans",
+        "Calorie tracking made easy",
+        "Balanced nutrition guidelines",
+        "Portion control tips",
+        "Healthy recipe suggestions"
+      ],
+      "workout": [
+        "Female-focused routines",
+        "Home and gym options",
+        "Progressive difficulty levels",
+        "Time-efficient workouts",
+        "Cardio and strength training"
+      ],
+      "transformation": [
+        "Combined diet + exercise",
+        "Monthly makeover challenges",
+        "Progress photo tracking",
+        "Lifestyle habit building",
+        "Long-term success planning"
+      ]
+    },
+    "descriptions": {
+      "diet": "Perfect for those who want to lose weight through smart eating choices without complicated restrictions.",
+      "workout": "Designed specifically for women who want effective workout plans that fit into busy schedules.",
+      "transformation": "Your complete makeover solution - like a \"mommy makeover\" but focused on healthy lifestyle changes that last."
+    },
+    "types": {
+      "exercise": {
+        "title": "Exercise Plan",
+        "features": [
+          "Burn calories effectively",
+          "Boost metabolism",
+          "Perfect for fitness enthusiasts"
+        ],
+        "description": "Burn calories and boost metabolism through regular exercise. Perfect for fitness enthusiasts!"
+      },
+      "diet": {
+        "title": "Diet Plan",
+        "features": [
+          "Control calorie intake",
+          "Balanced nutrition",
+          "Sustainable eating habits"
+        ],
+        "description": "Control calorie intake with balanced nutrition. Start changing with every meal!"
+      },
+      "combined": {
+        "title": "Exercise + Diet",
+        "features": [
+          "Best of both worlds",
+          "Maximum effectiveness",
+          "Comprehensive approach"
+        ],
+        "description": "Best of both worlds! Combined approach for more effective results!"
+      }
+    },
+    "exerciseTypes": [
+      "Jogging",
+      "Brisk Walking",
+      "Stair Climbing",
+      "Swimming",
+      "Yoga",
+      "Dancing",
+      "Walking",
+      "Cycling"
+    ],
+    "exerciseDurations": [10, 20, 30, 45, 60, 90],
+    "mealTypes": ["Breakfast", "Lunch", "Dinner"],
+    "dietDescriptions": [
+      "Light",
+      "Moderate",
+      "Heavy",
+      "Balanced",
+      "Vegetarian",
+      "Skip"
+    ],
+    "fullnessLevels": [
+      "Stay Hungry",
+      "50% Full",
+      "60% Full",
+      "70% Full",
+      "80% Full",
+      "90% Full",
+      "100% Full"
+    ]
+  },
+  "tools": {
+    "titles": {
+      "bmi": "BMI Calculator",
+      "calorie": "Calorie Calculator",
+      "progress": "Progress Tracker",
+      "meal": "Meal Planner",
+      "deficit": "Calorie Deficit Calculator"
+    },
+    "descriptions": {
+      "bmi": "Calculate your Body Mass Index and understand where you stand on your weight loss journey.",
+      "calorie": "Determine your daily calorie needs and create the perfect deficit for weight loss.",
+      "progress": "Visual monthly tracking to keep you motivated and on track with your goals.",
+      "meal": "Plan your meals with our easy-to-use interface, from healthy Bánh mì alternatives to balanced daily menus.",
+      "deficit": "Estimate your daily calorie needs and deficit target to achieve sustainable weight loss while maintaining energy levels."
+    }
+  },
+  "testimonial": {
+    "text": "I used to think weight loss was impossible with my busy schedule. But this simple approach changed everything. The monthly tracking kept me motivated, and the simple diet plans were actually doable. I learned that small consistent changes, like understanding calories in my favorite orange julius or choosing healthier versions of comfort foods, made all the difference. Now I keep holding on to these healthy habits because I know we'll make it through any challenge!",
+    "author": "- Sarah M., Lost 35 lbs in 4 months"
+  },
+  "sectionTitles": {
+    "features": "Why Choose Our Weight Loss Plans?",
+    "plans": "Choose Your Weight Loss Plan 💪",
+    "savedPlans": "📋 My Plan Collection",
+    "progressTracker": "📅 Monthly Progress Tracker"
+  },
+  "progressTracker": {
+    "description": "Click on dates to mark your progress. Let's stay consistent together! 💪"
+  },
+  "buttons": {
+    "startPlan": "Start Plan",
+    "delete": "Delete",
+    "savePlan": "Save Plan"
+  },
+  "warnings": {
+    "planNameRequired": "Please give your plan a name! 🌸",
+    "exerciseDurationLimit": "Exercise duration cannot exceed 2 hours! 😊",
+    "exerciseConfigRequired": "Please select exercise type and duration! 💕",
+    "mealConfigRequired": "Please configure at least one meal! 💕",
+    "combinedConfigRequired": "Please complete both exercise and diet configurations! 💕"
+  },
+  "modals": {
+    "exercise": {
+      "title": "🏃‍♀️ Create Exercise Plan",
+      "reminder": "Don't add overly strict exercise routines or set unrealistic workout durations. Choose activities that fit naturally into your daily life - even a 30-minute walk after dinner counts as a win!",
+      "typeLabel": "🎯 Choose Exercise Type",
+      "durationLabel": "⏰ Choose Exercise Duration"
+    },
+    "diet": {
+      "title": "🍽️ Create Diet Plan",
+      "tips": "Balanced nutrition is more important than extreme dieting. Our goal is to build sustainable eating habits, not short-term extreme restrictions."
+    },
+    "combined": {
+      "title": "💫 Create Combined Plan",
+      "tips": "Combining exercise with diet is the most effective weight loss approach. But remember, don't put too much pressure on yourself - choose a plan that fits your lifestyle rhythm."
+    }
+  },
+  "cta": {
+    "title": "Ready to Start Your Transformation?",
+    "description": "Join thousands who have already started their journey. Your best summer transformation starts today!",
+    "buttonText": "Get Started Free Today",
+    "buttonLink": "weight_loss_planner_english.html"
+  },
+  "dialog": {
+    "logoutConfirm": "Do you want to log out?",
+    "logoutTitle": "Confirm Logout",
+    "okButton": "OK",
+    "cancelButton": "Cancel",
+    "logoutSuccess": "Logout successful!",
+    "loginFailed": "Login failed",
+    "selectLanguage": "Select Language"
+  }
+}

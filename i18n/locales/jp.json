@@ -1,0 +1,39 @@
+{
+  "header": {
+    "home": "ホーム",
+    "features": "特徴",
+    "pricing": "価格",
+    "contact": "お問い合わせ"
+  },
+  "footer": {
+    "menuList": [
+      {
+        "title": "ホーム",
+        "name": "index",
+        "url": "/"
+      },
+      {
+        "title": "特徴",
+        "name": "features",
+        "url": "/features"
+      },
+      {
+        "title": "価格",
+        "name": "pricing",
+        "url": "/pricing"
+      }
+    ],
+    "brand": {
+      "title": "イージースリム",
+      "description": "イージースリムプランナー | 実際に効果のあるシンプルな減量プラン"
+    },
+    "copyright": "© 2025 EasySlimStart 全著作権所有",
+    "agreement": {
+      "title": "契約"
+    }
+  },
+  "heroData": {
+    "title": "ようこそ",
+    "subtitle": "サブタイトルテキスト"
+  }
+}

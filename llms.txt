@@ -1,0 +1,25 @@
+# Month Plan - Weight Loss Planner
+
+## Core Features
+- Personalized weight loss plans
+- Progress tracking tools
+- Meal planning assistance
+- Exercise recommendations
+- Motivational content
+
+## Main Sections
+- [Home](/) - Overview of features and benefits
+- [Plans](/plans) - Subscription plan options
+- [Tools](/tools) - Planning and tracking tools
+- [Testimonials](/testimonials) - Success stories
+
+## Resources
+- [Privacy Policy](/privacy-policy) - Data protection information
+- [Terms & Conditions](/terms-conditions) - Service terms
+- [Contact](/contact) - Support and inquiries
+
+## Technology Stack
+- Nuxt.js frontend framework
+- Tailwind CSS for styling
+- Firebase integration
+- Google Analytics tracking

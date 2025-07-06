@@ -1,0 +1,467 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+
+  &:hover {
+    color: inherit;
+  }
+}
+
+::-webkit-file-upload-button {
+  cursor: pointer;
+}
+
+input::-webkit-input-placeholder {
+  /* WebKit browsers 适配谷歌 */
+  color: #999999;
+}
+
+input:-moz-placeholder {
+  /* Mozilla Firefox 4 to 18 适配火狐 */
+  color: #999999;
+}
+
+input::-moz-placeholder {
+  /* Mozilla Firefox 19+ 适配火狐 */
+  color: #999999;
+}
+
+input:-ms-input-placeholder {
+  /* Internet Explorer 10+  适配ie*/
+  color: #999999;
+}
+// 宽度
+.half {
+  width: 50%;
+}
+.w-6 {
+  width: 1.5rem;
+}
+.w-\[400px\] {
+  width: 400px;
+}
+.w-\[612px\] {
+  width: 612px !important;
+}
+.w-\[928px\] {
+  width: 928px;
+}
+// 高度
+.h-1 {
+  height: 0.25rem;
+}
+.h-10 {
+  height: 2.5rem;
+}
+.h-full {
+  height: 100%;
+}
+// 布局
+.flex {
+  display: flex;
+}
+.items-center {
+  align-items: center;
+}
+
+.justify-start {
+  justify-content: flex-start;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.justify-center {
+  justify-content: center;
+}
+.relative {
+  position: relative;
+}
+.flex-wrap {
+  flex-wrap: wrap;
+}
+.flex-col {
+  flex-direction: column;
+}
+.flex-1 {
+  flex: 1 1 0%;
+}
+.gap-6 {
+  gap: 1.5rem;
+}
+// 文本
+.text-lg {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+.text-xs {
+  font-size: 0.75rem;
+  line-height: 1.25rem;
+}
+.font-semibold {
+  font-weight: 600;
+}
+
+.fontsize12 {
+  font-size: 12px;
+}
+.cursor-pointer {
+  cursor: pointer;
+}
+.ant-form {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 12px;
+  font-variant: tabular-nums;
+  line-height: 1.66667;
+  list-style: none;
+  font-feature-settings: "tnum";
+}
+.ant-form-item {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 12px;
+  font-variant: tabular-nums;
+  line-height: 1.66667;
+  list-style: none;
+  font-feature-settings: "tnum";
+  margin-bottom: 16px;
+  vertical-align: top;
+}
+.ant-row {
+  display: flex;
+  flex-flow: row wrap;
+  min-width: 0;
+}
+.ant-form-item-control-input {
+  border: 2px solid rgb(53, 57, 69);
+  border-radius: 12px;
+}
+.ant-input-group {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 12px;
+  font-variant: tabular-nums;
+  line-height: 1.66667;
+  list-style: none;
+  font-feature-settings: "tnum";
+  position: relative;
+  display: table;
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+}
+.gSpXJO {
+  color: rgb(119, 126, 144);
+}
+.kvxUpM.ant-btn-lg {
+  font-size: 16px;
+  height: 48px;
+}
+.kvxUpM {
+  padding: 7px 16px;
+  border-width: 2px;
+  height: 40px;
+  border-radius: 90px;
+  box-shadow: none;
+}
+.ant-btn-primary {
+  color: #fff;
+  border-color: #7851ec;
+  background: #7851ec;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.12);
+  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.045);
+}
+.ant-btn-block {
+  width: 100%;
+}
+.primary-color {
+  color: #7851ec;
+}
+
+.ant-btn-primary:hover,
+.ant-btn-primary:focus {
+  color: #fff;
+  border-color: #583ac7;
+  background: #583ac7;
+}
+.uUFHG
+  .ant-form-item-control-input
+  .ant-input-group-wrapper
+  .ant-input:last-child {
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
+.lmndSy {
+  // width: 1424px;
+  margin: 0px auto;
+  padding: 0px 16px;
+}
+//margin
+
+.mb-4 {
+  margin-bottom: 1rem;
+}
+.mb-8 {
+  margin-bottom: 2rem;
+}
+.mb-\[97px\] {
+  margin-bottom: 97px;
+}
+.mb-\[48px\] {
+  margin-bottom: 48px;
+}
+.ml-6 {
+  margin-left: 1.5rem;
+}
+.mt-\[48px\] {
+  margin-top: 48px;
+}
+.ml-8 {
+  margin-left: 2rem;
+}
+.mt-\[96px\] {
+  margin-top: 96px;
+}
+.mt-\[48px\] {
+  margin-top: 48px;
+}
+.mx-\[72px\] {
+  margin-left: 72px;
+  margin-right: 72px;
+}
+.my-\[72px\] {
+  margin-top: 72px;
+  margin-bottom: 72px;
+}
+.my-4 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.mb-6 {
+  margin-bottom: 1.5rem;
+}
+.\!leading-6 {
+  line-height: 1.5rem !important;
+}
+
+.py-6 {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+.border-b-\[1px\] {
+  border-bottom: 1px solid rgb(53, 57, 69);
+}
+.border-\[3px\] {
+  border-width: 3px;
+}
+
+//企业服务
+.relative {
+  position: relative;
+}
+
+.enterprise-service_bgWrapper___t06R .enterprise-service_imgsWrap__hZ2o8 {
+  width: 666px;
+  min-height: 500px;
+  position: relative;
+}
+
+button,
+html [type="button"],
+[type="reset"],
+[type="submit"] {
+  -webkit-appearance: button;
+}
+
+.kvxUpM {
+  padding: 7px 16px;
+  border-width: 2px;
+  height: 40px;
+  border-radius: 90px;
+  box-shadow: none;
+}
+.text-\[48px\] {
+  font-size: 48px;
+}
+.text-\[24px\] {
+  font-size: 24px;
+}
+.text-primary {
+  color: rgb(120, 81, 236);
+}
+.bg-neutral-300 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(53, 57, 69);
+}
+.text-neutral-600 {
+  --tw-text-opacity: 1;
+  color: rgb(var(--neutral-600-raw) / var(--tw-text-opacity));
+}
+.text-neutral-400 {
+  --tw-text-opacity: 1;
+  color: rgba(119, 126, 144, 1);
+}
+.text-neutral-900 {
+  --tw-text-opacity: 1;
+  color: rgba(255, 255, 255, 1);
+}
+
+.text-center {
+  text-align: center;
+}
+.text-opacity-\[0\.65\] {
+  --tw-text-opacity: 0.65;
+}
+
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+.text-sm {
+  font-size: 0.875rem;
+  line-height: 1.5rem;
+}
+
+.py-6 {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+.bg-\[\#1F1F1F\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(31 31 31 / var(--tw-bg-opacity));
+}
+
+.rounded-\[16px\] {
+  border-radius: 16px;
+}
+.rounded-\[24px\] {
+  border-radius: 24px;
+}
+
+.MyContainer__StyledContainer-sc-11ef00g-0 {
+  width: 1424px;
+  min-height: 480px;
+  //   margin: 0 60px;
+  img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    border-style: none;
+    display: unset;
+  }
+}
+.border-solid {
+  border-style: solid;
+}
+.transition-all {
+  transition: all 0.3s ease;
+}
+
+.border-t-\[1px\] {
+  border-top-width: 1px;
+}
+.bg-neutral-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(20, 20, 22, 1);
+}
+.border-neutral-300 {
+  --tw-border-opacity: 1;
+  border-color: rgba(53, 57, 69, 1);
+}
+.text-neutral-500 {
+  --tw-text-opacity: 1;
+  color: rgb(177, 188, 196, 1);
+}
+.text-neutral-800 {
+  --tw-text-opacity: 1;
+  color: rgb(252, 252, 253, 1);
+}
+
+// 定位
+.bottom-0 {
+  bottom: 0px;
+}
+
+.right-0 {
+  right: 0px;
+}
+.left-0 {
+  left: 0px;
+}
+.top-0 {
+  top: 0px;
+}
+.absolute {
+  position: absolute;
+}
+.top-4 {
+  top: 1rem;
+}
+
+.right-6 {
+  right: 1.5rem;
+}
+
+// 背景
+
+bg-center {
+  background-position: center;
+}
+.bg-cover {
+  background-size: cover;
+}
+.bg-primary {
+  --tw-bg-opacity: 1;
+  background-color: rgba(120, 81, 236, 1);
+}
+.rounded-full {
+  border-radius: 9999px;
+}
+.w-6 {
+  width: 1.5rem;
+}
+.h-6 {
+  height: 1.5rem;
+}
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+.bg-neutral-200 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(35, 38, 47);
+}
+
+/* 定义滚动条轨道的样式 */
+::-webkit-scrollbar {
+  width: 0px; /* 滚动条的宽度 */
+  background-color: #f5f5f5; /* 滚动条轨道的颜色 */
+}
+
+/* 定义滚动条滑块的样式 */
+::-webkit-scrollbar-thumb {
+  border-radius: 4px; /* 滚动条滑块的圆角 */
+  background-color: #ccc; /* 滚动条滑块的颜色 */
+}
+
+/* 定义滚动条滑块在 hover 时的样式 */
+::-webkit-scrollbar-thumb:hover {
+  background-color: #aaa; /* 鼠标悬停时滚动条滑块的颜色 */
+}

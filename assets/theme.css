@@ -1,0 +1,82 @@
+/* theme.css */
+
+/* 白色主题 */
+body .white-theme {
+  /* background-color: #acbfb3!important; */
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  /* 背景色 */
+  color: #000000 !important;
+  /* 字体颜色 */
+}
+
+#app .white-theme {
+  /* background-color: #acbfb3 !important; */
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  /* 背景色 */
+  color: #000000 !important;
+  /* 字体颜色 */
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+
+  width: 100%;
+  min-height: 100vh;
+}
+/* #app .white-theme .box .el-menu{
+  color: #000000 !important;
+
+}
+#app .white-theme .box .el-menu-item .menu-item{
+  color: #000000 !important;
+
+}
+#app .dark-theme .box .el-menu{
+  color: #ffffff !important;
+
+}
+
+#app .dark-theme .box .el-menu-item .menu-item{
+  color: #ffffff !important;
+
+} */
+
+#app .dark-theme {
+  background-color: #1f2730 !important;
+  /* 背景色 */
+  color: #ffffff !important;
+  /* 字体颜色 */
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* 黑色主题 */
+body .dark-theme {
+  background-color: #1f2730 !important;
+  /* 背景色 */
+  color: #ffffff !important;
+  /* 字体颜色 */
+}
+
+body .dark-theme .box .el-menu .el-menu-item {
+  color: #ffffff !important;
+
+}
+
+body .white-theme .box .el-menu .el-menu-item {
+  color: #000000 !important;
+
+}
+body .white-theme .box .el-menu-item {
+  color: #000000 !important;
+
+}
+body .dark-theme .box .el-menu-item {
+  color: #ffffff !important;
+
+}
